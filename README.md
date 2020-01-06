@@ -1,5 +1,5 @@
 # Sign-Language-Detection
-Real Time Sing Language Detection using WebCam
+Real Time Sign Language Detection using WebCam then finally moving onto the Mobile Devices once complete
 
 Currently working on this project to showcase in College's Minor and Major Project
 
