@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct  4 11:56:59 2019
-
-@author: fluXcapacit0r
-"""
-
 import os
 import time
 import torch
