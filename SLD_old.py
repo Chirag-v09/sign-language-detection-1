@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 2 00:17:01 2019
-
-@author: fluXcapacit0r
-"""
-
 import cv2
 import random
 from glob import glob
