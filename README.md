@@ -4,5 +4,6 @@ Real Time Sign Language Detection using WebCam then finally moving onto the Mobi
 Currently working on this project to showcase in College's Minor and Major Project
 
 Download link for dataset:
-https://www.kaggle.com/grassknoted/asl-alphabet/kernels
+
+    https://www.kaggle.com/grassknoted/asl-alphabet/kernels
 
